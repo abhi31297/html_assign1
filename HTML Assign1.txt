@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Assignment 1</title>
+</head>
+
+<body>
+	<h1>This is Heading 1</h1>
+	<h2>This is Heading 2</h2>
+	<h3>This is Heading 3</h3>
+	<h4>This is Heading 4</h4>
+	<h5>This is Heading 5</h5>
+	<h6>This is Heading 6</h6>
+	<p>THIS IS A PARAGRAPH. THIS IS A PARAGRAPH. THIS IS A PARAGRAPH.</p>
+	<p>THIS IS ANOTHER PARAGRAPH. THIS IS ANOTHER PARAGRAPH. THIS IS ANOTHER PARAGRAPH.</p>
+	<p>THIS IS A LINE BREAK.<br> THIS IS A LINE BREAK.<br> THIS IS A LINE BREAK.</p>
+	<p>THIS IS AN ORDERED LIST</p>
+
+	<ol>
+	  <li>Item 1</li>
+	  <li>Item 2</li>
+	  <li>Item 3</li>
+	  <li>Item 4</li>
+	  <li>Item 5</li>
+	</ol> 
+	<p>THIS IS AN UNORDERED LIST</p>
+
+	<ul>
+	  <li>Item 1</li>
+	  <li>Item 2</li>
+	  <li>Item 3</li>
+	  <li>Item 4</li>
+	  <li>Item 5</li>
+	</ul> 
+	
+	<p style="padding-right: 5px;"><b>THIS TEXT IS BOLD</b></p>
+	<p style="padding-right: 5px;"><i>TEXT TEXT IS ITALIC</i></p>
+</body>
+
+</html>
